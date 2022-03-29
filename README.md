@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Yoan!
 - :man_student: I’m currently studying at [Hive](https://www.hive.fi/en/) which is part of the [42Network](https://42.fr/en/network-42/).
-- 👀 I’m interested in blockchain technologie, AI, problem solving.
+- 👀 I am interested in blockchain, artificial intelligence and problem solving.
 -  I like to learn new things and to step outside my confort zone.
 
 <!---
